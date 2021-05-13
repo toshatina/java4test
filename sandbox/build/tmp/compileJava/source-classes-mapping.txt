@@ -1,0 +1,4 @@
+MyFirstPackage/MyFirstProgram.java
+ MyFirstPackage.MyFirstProgram
+MyFirstPackage/Point.java
+ MyFirstPackage.Point
