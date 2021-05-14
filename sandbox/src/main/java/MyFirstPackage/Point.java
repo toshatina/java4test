@@ -1,20 +1,11 @@
 package MyFirstPackage;
-
 import static java.lang.Math.sqrt;
-
 public class Point {
-    double x;
-    double y;
+        Double x;
+        Double y;
 
-    public Point(double x, double y) {
-        this.x = x;
-        this.y = y;
-    }
-    Point A = new Point(1,1);
-    Point B = new Point(1,1);
-    public static double distance(Point A, Point B) {
-        return (sqrt((A.x - B.x) * (A.x - B.x) + (A.y - B.y) * (A.y - B.y)));
-    }
-
-}
-
+        public double distance (Point Point2)
+        {
+        return sqrt(((x - Point2.x)*(x - Point2.x))+((y - Point2.y)*(y - Point2.y)));
+        }
+        }
