@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="address4new" target="1.8" />
+      <module name="address4new.main" target="1.8" />
+      <module name="address4new.test" target="1.8" />
+      <module name="addressbook4test" target="1.8" />
+      <module name="addressbook4test.main" target="1.8" />
+      <module name="addressbook4test.test" target="1.8" />
+      <module name="org.example.addressbook.main" target="1.8" />
+      <module name="org.example.addressbook.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
